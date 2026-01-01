@@ -1,0 +1,25 @@
+{
+  "name": "pokemon",
+  "symbol": "POKE",
+  "description": "this pokemo coin",
+  "image": "https://raw.githubusercontent.com/miaodotarmy/pokemon-15/gh-pages/public/token-image.jpg",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/miaodotarmy/pokemon-15/gh-pages/public/token-image.jpg",
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://miaodotarmy.github.io/pokemon-15/"
+  },
+  "attributes": [
+    {
+      "trait_type": "Website",
+      "value": "https://miaodotarmy.github.io/pokemon-15/"
+    }
+  ],
+  "external_url": "https://miaodotarmy.github.io/pokemon-15/"
+}
